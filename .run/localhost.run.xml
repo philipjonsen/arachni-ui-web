@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="localhost" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" restartOnDisconnect="true">
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" url="mutant-cats.com/#redeem-code" withDebugger="true" />
+      <option name="RemoteToolBeforeRunTask" enabled="true" actionId="RemoteTool_Remote Tools_as" />
+    </method>
+  </configuration>
+</component>
